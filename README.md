@@ -113,4 +113,3 @@ Chapter 7 for interest rate swaps, Chapter 29 for Black's model applied to swapt
 
 Tuckman, B. and Serrat, A. (2011). Fixed Income Securities. Wiley.
 Chapter 2 for yield curve construction and interpolation methods.
-```
